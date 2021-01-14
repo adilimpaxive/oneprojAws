@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "oneproj33cf5498": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "function": {}
+}

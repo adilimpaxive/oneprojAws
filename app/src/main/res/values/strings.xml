@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OneProj</string>
+    <!-- Auth0 SDK -->
+    <string name="com_auth0_client_id">Wx1KAvqmGpBKOT0eWCJCUbTTuJp7YxiD</string>
+    <string name="com_auth0_domain">adilfaruqi.us.auth0.com</string>
+    <string name="web_client_id">884668129189-9qqrna4ves0ln21ebft5hd9tprqmq9e4.apps.googleusercontent.com</string>
+
+
+</resources>
